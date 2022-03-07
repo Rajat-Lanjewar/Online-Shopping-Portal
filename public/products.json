@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Adidas (Red)",
+        "category": "Shoes",
+        "description": "Raised eyestay tpu , deco stitching on counter and broad lace is a specialty of the shoe. Ortholite socks for more cushioning and comfort. Nova midsole :-. Midsole provides extra comfort and cushioning. Nova outsole :- durable, long lasting wear , ultimate traction and grip on multiple surface.",
+        "price": 550,
+        "photo": "shoe1.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "1",
+                "size": 7
+            },
+            {
+                "sizeid": "2",
+                "size": 8
+            },
+            {
+                "sizeid": "3",
+                "size": 9
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Adidas (Blue)",
+        "category": "Shoes",
+        "description": "Shoe 2",
+        "price": 550,
+        "photo": "shoe2.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "4",
+                "size": 5
+            },
+            {
+                "sizeid": "5",
+                "size": 6
+            },
+            {
+                "sizeid": "6",
+                "size": 7
+            },
+            {
+                "sizeid": "7",
+                "size": 8
+            },
+            {
+                "sizeid": "8",
+                "size": 9
+            },
+            {
+                "sizeid": "9",
+                "size": 10
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Adidas (Black)",
+        "category": "Shoes",
+        "description": "Shoe 3",
+        "price": 600,
+        "photo": "shoe3.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "10",
+                "size": 8
+            },
+            {
+                "sizeid": "11",
+                "size": 9
+            },
+            {
+                "sizeid": "12",
+                "size": 10
+            },
+            {
+                "sizeid": "13",
+                "size": 11
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Adidas (Green)",
+        "category": "Shoes",
+        "description": "Shoe 4",
+        "price": 650,
+        "photo": "shoe4.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "14",
+                "size": 7
+            },
+            {
+                "sizeid": "15",
+                "size": 8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Adidas (Yellow)",
+        "category": "Shoes",
+        "description": "Raised eyestay tpu , deco stitching on counter and broad lace is a specialty of the shoe. Ortholite socks for more cushioning and comfort. Nova midsole :-. Midsole provides extra comfort and cushioning. Nova outsole :- durable, long lasting wear , ultimate traction and grip on multiple surface.",
+        "price": 500,
+        "photo": "shoe5.png",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "16",
+                "size": 10
+            },
+            {
+                "sizeid": "17",
+                "size": 11
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Apple Watch (Red)",
+        "category": "Watches",
+        "description": "Unisex Ninja Pro Full Metal Body SpO2 Smartwatch 11BSWAAY#2 - Red",
+        "price": 1750,
+        "photo": "watch1.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "18",
+                "size": "33mm"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Apple Watch (Dark Blue)",
+        "category": "Watches",
+        "description": "Watch 2",
+        "price": 2700,
+        "photo": "watch2.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "19",
+                "size": "33mm"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Apple Watch (White)",
+        "category": "Watches",
+        "description": "Unisex Ninja Pro Full Metal Body SpO2 Smartwatch 11BSWAAY#2 - White",
+        "price": 1700,
+        "photo": "watch3.png",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "20",
+                "size": "40mm"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Apple Watch (Black)",
+        "category": "Watches",
+        "description": "Watch 4",
+        "price": 3700,
+        "photo": "watch4.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "21",
+                "size": "40mm"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "One Plus",
+        "category": "Phones",
+        "description": "Camera: Sony IMX 766 50MP+8MP+2MP AI Triple Camera, Display: 6.43-inch, 90Hz Fluid AMOLED display, Memory, Storage & SIM: 8GB RAM | 128GB, Connectivity: Dual SIM, Operating System: OxygenOS 11.3, In-display fingerprint sensor.",
+        "price": 27000,
+        "photo": "phone1.png",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "22",
+                "size": "6GB ram"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Peter England",
+        "category": "Shirts",
+        "description": "A Style For Every Story introding the colorful trendy texture of fashion for all generations in extreme fashionable wardrobe collection.",
+        "price": 700,
+        "photo": "shirt1.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "23",
+                "size": "S"
+            },
+            {
+                "sizeid": "24",
+                "size": "M"
+            },
+            {
+                "sizeid": "25",
+                "size": "L"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Nike",
+        "category": "Shirts",
+        "description": "Shirt 2",
+        "price": 800,
+        "photo": "shirt2.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "26",
+                "size": "S"
+            },
+            {
+                "sizeid": "27",
+                "size": "M"
+            },
+            {
+                "sizeid": "28",
+                "size": "L"
+            },
+            {
+                "sizeid": "29",
+                "size": "XL"
+            },
+            {
+                "sizeid": "30",
+                "size": "XXL"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Puma",
+        "category": "Shirts",
+        "description": "Shirt 3",
+        "price": 900,
+        "photo": "shirt3.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "31",
+                "size": "XL"
+            },
+            {
+                "sizeid": "32",
+                "size": "XXL"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Monte Carlo",
+        "category": "Shirts",
+        "description": "Maroon and black printed T-shirt, has a round neck, long sleeves",
+        "price": 1000,
+        "photo": "shirt4.png",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "33",
+                "size": "M"
+            },
+            {
+                "sizeid": "34",
+                "size": "L"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Park Avenue",
+        "category": "LadiesWear",
+        "description": "Add a dash of style to your formal look wearing this shirt Designed by Park Avenue. This shirt has an Ainsley collar, and an interesting all-over print. You can pair it with matching trousers and stylish pumps.",
+        "price": 2500,
+        "photo": "cloth1.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "35",
+                "size": "S"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Zara",
+        "category": "LadiesWear",
+        "description": "Zara Cotton Sea Green Printed A-Line Top With Palazzo & Jacket",
+        "price": 2300,
+        "photo": "cloth2.png",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "36",
+                "size": "S"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Gracious Kurties",
+        "category": "LadiesWear",
+        "description": "Maxi",
+        "price": 2700,
+        "photo": "cloth3.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "37",
+                "size": "M"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Shaye",
+        "category": "LadiesWear",
+        "description": "Red Long Wrap Skirt",
+        "price": 2600,
+        "photo": "cloth4.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "38",
+                "size": "L"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Samsung Galaxy",
+        "category": "Phones",
+        "description": "Phone 2",
+        "price": 25000,
+        "photo": "phone2.png",
+        "featured": false,
+        "sizes": [
+            {
+                "sizeid": "39",
+                "size": "3GB ram"
+            },
+            {
+                "sizeid": "40",
+                "size": "4GB ram"
+            },
+            {
+                "sizeid": "41",
+                "size": "4GB ram"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Redmi",
+        "category": "Phones",
+        "description": "The K20 Pro is a part of the new K series of smartphones from Redmi. It is the flagship smartphone and sports a Qualcomm Snapdragon 855 SoC. This smartphone sports a 6.39-inch AMOLED display which makes it the first Redmi smartphone with an AMOLED display.",
+        "price": 20000,
+        "photo": "phone3.png",
+        "featured": true,
+        "sizes": [
+            {
+                "sizeid": "42",
+                "size": "3GB ram"
+            },
+            {
+                "sizeid": "43",
+                "size": "4GB ram"
+            },
+            {
+                "sizeid": "44",
+                "size": "6GB ram"
+            },
+            {
+                "sizeid": "45",
+                "size": "8GB ram"
+            }
+        ]
+    }
+]
