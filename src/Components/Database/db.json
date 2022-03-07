@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Rajat Lanjewar",
+      "username": "Rajat",
+      "email": "lanjewarr@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "Pratik Raut",
+      "username": "Prat",
+      "email": "pratikr@gmail.com",
+      "phone": "2456789092",
+      "id": 2
+    },
+    {
+      "name": "Praharsh Katole",
+      "username": "Praharsh",
+      "email": "praharsh@gmail.com",
+      "phone": "2341567345",
+      "id": 3
+    },
+    {
+      "name": "Vedant Dhote",
+      "username": "Vedant",
+      "email": "vedantd@gmai.com",
+      "phone": "5432678901",
+      "id": 4
+    }
+  ]
+}
